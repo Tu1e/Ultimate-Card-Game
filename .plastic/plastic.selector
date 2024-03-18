@@ -1,0 +1,4 @@
+repository "Ultimate Card Game@BlcakJuiceGames@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad53ace943517d49969ea2969569cf9, type: 3}
+  m_Name: Carny
+  m_EditorClassIdentifier: 
+  cardType: Monster
+  cardName: Carny
+  Id: 2
+  description: Man eating plant with fisty atitude
+  artwork: {fileID: 21300000, guid: cfa5eaa370058c842a5841a00e792cb9, type: 3}
+  lvl: 4
+  atk: 250
+  def: 50
